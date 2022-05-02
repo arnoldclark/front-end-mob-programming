@@ -1,12 +1,12 @@
 # Welcome to Hack Day 2022!
 
-We're really excited to meet you! 
+We're really excited to meet you!
 
-This exercise is designed to give us a feel for how you would approach a fairly common problem here at Arnold Clark. 
+This exercise is designed to give us a feel for how you would approach a fairly common problem here at Arnold Clark.
 
 You'll be asked to work with some other participants, and with the help of a couple of mentors, hopefully you'll have a working solution at the end of the day!
 
-_However:_ the process is more important than the outcome. While technical skills are important to us, it's more important that we hire people who communicate well and treat their colleagues with kindness and empathy. 
+_However:_ the process is more important than the outcome. While technical skills are important to us, it's more important that we hire people who communicate well and treat their colleagues with kindness and empathy.
 
 Your mentors, and everyone working at the hack day, are here to guide you through the day and to help you have the best possible experience. If there's anything that would make you feel more comfortable, please don't hesitate to ask.
 
@@ -40,3 +40,22 @@ Your completed app might look a little bit like this:
 ![Arnold Clark Garage](/client/src/static/images/garage.gif "Arnold Clark Garage")
 
 Your mentors will be able to help you to use [Chassis](https://arnoldclark.github.io/chassis), our CSS framework.
+
+## Running this application
+
+To run this application, you should first of all install its dependencies using npm.
+
+```bash
+cd front-end-mob-programming
+npm install
+```
+
+This application uses [dev containers](https://code.visualstudio.com/docs/remote/containers) to run MongoDB. You will need [Docker Desktop](https://www.docker.com/products/docker-desktop/) in order to run this app.
+
+When you open vscode, you should see a dialog asking if you'd like to open the project up inside a container.
+
+![Dev Containers](/client/src/static/images/devcontainers.png "Dev Containers")
+
+Click "Reopen in Container", wait a moment, and the app should be available on [http://localhost:8080](http://localhost:8080).
+
+If the dialog doesn't show, you can click the blue icon at the bottom left of VS Code and select "Reopen in Container" manually.
