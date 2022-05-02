@@ -26,14 +26,15 @@ The application uses the following technologies:
 - On the back-end: Node.js, Express, MongoDB,
 - On the front-end: React, hooks, styled-components
 
-There is existing work that you can look at to help you with your approach.
+There is existing work that you can look at to help you with your approach. Your mentors will talk you through how to get the app running before you begin adding your own code.
 
-Here is a list of tasks that you might decide to use to help you to get started.
+Here is a list of things to discuss that might help you decide how to plan your approach:
 
-- [ ] Write a MongoDB "playground" file to help you set up and seed the database with cars. You can see one that has already been created at `./server/playgrounds/branches.mongodb`.
-- [ ] Think about what endpoints you'll need. Write a set of Express endpoints to serve up your data as an API.
-- [ ] Once you've tested your endpoints, write a React component that will display the list, and include it in `./client/src/pages/Home/index.js`
-- [ ] Add the form component that has been created for you within `./client/src/components/CarForm/index.js` and write any logic needed to send the new car to the API.
+- Consider where to start: front-end or back-end?
+- Think about what data you will need to bring into your app
+- Think about how you will display data in your app
+- Think about how you will send data to the back-end
+- How you will test any endpoints you write?
 
 Your completed app might look a little bit like this:
 
