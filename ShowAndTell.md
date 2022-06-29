@@ -1,21 +1,22 @@
 # Option 2: Show and Tell
 
-This session helps us to understand how you like to build front-end applications.
+This session helps us to understand how you like to build software applications.
 
 We'll ask you to take an app that you have recently built, and walk us through the codebase.
 
 This might be an app that you have worked on professionally, an app that you built as part of an educational course, or a side-project that you have worked on in your spare time.
 
-There are several other considerations:
+There are a couple of other requirements for this task:
 
-- The app has to use React
 - The app should be at least moderately complex
+- The app should be web-based
+- It could be front-end, back-end or full-stack
 
 > Very important: make sure you have permission to share the code you'd like to demonstrate.
 
 ## About the session
 
-When we start the interview, we'll ask you to run the application, and share your screen. We'll then ask you for a quick demo of the codebase.
+When we start the interview, we'll ask you to run the application, and share your screen. We'll then ask you to walk us through the codebase.
 
 We'll also ask you to share a link to the codebase so that we can go through it in some detail.
 

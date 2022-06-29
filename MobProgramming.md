@@ -17,11 +17,12 @@ We're aiming to make something like this - although final results usually vary!
 
 **Please don't write any code before the mob session. We value your time and this startpoint is being provided to take away the element of surprise from the session.**
 
-You'll be joined on the call by a couple of front-end engineers from Arnold Clark. They'll take turns - around 20 minutes each - to take control of the machine and write some code.
+You'll be joined on the call by a couple of engineers from Arnold Clark. They'll take turns - around 20 minutes each - to take control of the machine and write some code.
 
 If you would like to "drive" the machine, we have a couple of options:
 
 - The best option is to download and set up the [Live Share extension for Visual Studio Code](https://code.visualstudio.com/learn/collaboration/live-share).
+- You can also use Live Share within your web browser rather than through VS Code
 - We can also share screen control using Microsoft Teams, but this isn't ideal as it can be a little bit laggy.
 
 If you would prefer not to drive the machine, that's perfectly fine. It won't have an impact on your application.

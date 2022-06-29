@@ -1,6 +1,6 @@
 # Hello, we're excited to meet you!
 
-Thanks for taking the time to apply for the role of Front-End Engineer at Arnold Clark. In this part of the interview process, we're looking to assess your technical skills so that we can see how you might fit into our organisation.
+Thanks for taking the time to apply for the role of Associate Engineer at Arnold Clark. In this part of the interview process, we're looking to assess your technical skills so that we can see how you might fit into our organisation.
 
 ## Before we start
 
@@ -24,7 +24,7 @@ Please make sure that you read both sets of instructions so that you can make an
 
 ### Option 1: Mob Programming
 
-Take part a mob programming session to show us how you like to work in a team.
+Take part in a front-end mob programming session to show us how you like to work.
 
 [Instructions for the mob programming session.](MobProgramming.md)
 

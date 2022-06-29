@@ -26,12 +26,10 @@ Here are the skills and attributes we look for throughout the interview process.
 
 Having said that, here are some of the things we consider to be important when we're assessing a candidate's ability:
 
-- Does the code show a solid understanding of the fundamentals of JavaScript and React?
+- Does the code show a solid understanding of the fundamentals of programming?
 
-- Are the application's components structured in a logical manner?
+- Is the application's code structured in a logical manner?
 
-- Is there a separation between business logic and presentation?
-
-- Is the code easy to test?
+- Would the code be easy to test?
 
 - Is the code properly formatted and easy to read?
